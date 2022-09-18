@@ -1,3 +1,3 @@
 const sabiranje = () => {
-    
+    'Neki komentar'
 }
