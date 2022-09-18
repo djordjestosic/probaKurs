@@ -1,6 +1,8 @@
 const novaFunkcija = () => {
+
+    let ime = 'pera';
     return (
-        <div>novaFunkcija</div>
+        <div>novaFunkcija {pera}</div>
     )
 }
 
