@@ -1,7 +1,12 @@
-const naziv1 = () => {
+const naziv1 = (a,b,c) => {
 
-
-    return 1;
+    if (a>b) {
+        return -1;
+    }
+    else{
+        return 1;
+    }
+    return c;
 }
 
 export default naziv1;
